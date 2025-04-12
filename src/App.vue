@@ -1,9 +1,13 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Pokemon from './components/Pokemon.vue';
+import PokemonDetail from './components/PokemonDetail.vue';
+import HomeView from './views/HomeView.vue';
+
 </script>
 
-<template>
-  <HelloWorld msg="Vite + Vue" />
+<template id="app">
+  <Pokemon/>
+  
 </template>
 
 <style scoped>
