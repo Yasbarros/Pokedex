@@ -1,5 +1,46 @@
-# Vue 3 + Vite
+# Pokédex Vue 🔍
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicação desenvolvida com Vue.js para consultar e visualizar informações de Pokémon usando a [PokeAPI](https://pokeapi.co/).
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## 🚀 Deploy
+
+Você pode acessar a Pokédex online através deste link:
+
+🔗 [https://pokedex-lac-six.vercel.app/](https://pokedex-lac-six.vercel.app/)
+
+---
+
+## 📦 Tecnologias Utilizadas
+
+- [Vue.js 3](https://vuejs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/) (opcional)
+- [PokeAPI](https://pokeapi.co/) – API pública para dados de Pokémon
+- [Vue Router](https://router.vuejs.org/) – Gerenciamento de rotas
+- [Axios](https://axios-http.com/) – Requisições HTTP
+
+---
+
+## ✨ Funcionalidades
+
+### Funcionalidades Obrigatórias:
+
+✔️ Listagem de Pokémon com scroll infinito  
+✔️ Filtros por nome, ID, tipo e espécie  
+✔️ Detalhamento de cada Pokémon contendo:
+- Todos os sprites do Pokémon
+- Seus movimentos de ataque
+- Evoluções (se houver)
+- Jogos em que o Pokémon aparece
+
+### Funcionalidades Opcionais:
+
+⭐ Suporte a múltiplos idiomas (i18n)  
+⭐ Responsivo para mobile e desktop  
+⭐ Gerenciamento de estado com Vuex *(em progresso)*  
+⭐ Testes automatizados simples *(em progresso)*  
+
+---
+
+## 📁 Estrutura de Pastas
+
