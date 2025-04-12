@@ -14,14 +14,11 @@ Você pode acessar a Pokédex online através deste link:
 
 - [Vue.js 3](https://vuejs.org/)
 - [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/) (opcional)
+- [Tailwind CSS](https://tailwindcss.com/) 
 - [PokeAPI](https://pokeapi.co/) – API pública para dados de Pokémon
 - [Vue Router](https://router.vuejs.org/) – Gerenciamento de rotas
 - [Axios](https://axios-http.com/) – Requisições HTTP
 
----
-
-## ✨ Funcionalidades
 
 ### Funcionalidades Obrigatórias:
 
@@ -35,12 +32,9 @@ Você pode acessar a Pokédex online através deste link:
 
 ### Funcionalidades Opcionais:
 
-⭐ Suporte a múltiplos idiomas (i18n)  
 ⭐ Responsivo para mobile e desktop  
 ⭐ Gerenciamento de estado com Vuex *(em progresso)*  
 ⭐ Testes automatizados simples *(em progresso)*  
 
----
 
-## 📁 Estrutura de Pastas
 
